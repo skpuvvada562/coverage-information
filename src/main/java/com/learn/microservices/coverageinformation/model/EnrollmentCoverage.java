@@ -6,6 +6,7 @@ public class EnrollmentCoverage {
 	private int id;
 	private String name;
 	private CoverageComponent coverageComponent;
+	private String status;
 	
 	public EnrollmentCoverage() {
 		super();
