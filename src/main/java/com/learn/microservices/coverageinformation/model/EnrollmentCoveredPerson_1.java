@@ -5,6 +5,7 @@ public class EnrollmentCoveredPerson {
 	private int ecpId;
 	private String ecpName;
 	private String ecpAge;
+	private String ecpDob; //jira his-122
 	public EnrollmentCoveredPerson() {
 		super();
 		// TODO Auto-generated constructor stub
