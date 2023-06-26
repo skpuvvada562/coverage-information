@@ -21,4 +21,8 @@ public class CoverageInformationApplication {
 		SpringApplication.run(CoverageInformationApplication.class, args);
 	}
 
+public void doProcess(){
+
+}
+
 }
